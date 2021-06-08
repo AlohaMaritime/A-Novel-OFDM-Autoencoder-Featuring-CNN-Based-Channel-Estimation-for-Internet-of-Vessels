@@ -1,8 +1,6 @@
 A-Novel-OFDM-Autoencoder-Featuring-CNN-Based-Channel-Estimation-for-Internet-of-Vessels
 =======================================================================================
-[**A-Novel-OFDM-Autoencoder-Featuring-CNN-Based-Channel-Estimation-for-Internet-of-Vessels**](https://ieeexplore.ieee.org/document/9060913)  
 此项目为论文[**A-Novel-OFDM-Autoencoder-Featuring-CNN-Based-Channel-Estimation-for-Internet-of-Vessels**](https://ieeexplore.ieee.org/document/9060913)的开源代码  
-This work was completed in the **Department of Information Science and Technology, Dalian Maritime University**  
 此工作于**大连海事大学-信息科学技术学院**完成  
 
 **Abstract/摘要**  
